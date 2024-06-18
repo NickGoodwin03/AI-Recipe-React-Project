@@ -9,7 +9,7 @@ function FormPage({ onNewRecipe }) {
     const [instructions, setInstructions] = useState('');
 
     const handleSubmit = async (e) => {
-        e.preventDefault();
+        //e.preventDefault();
 
 
 
